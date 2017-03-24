@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Swag-cart project pages
+
+This page will be updated with the necessary project documentation
+
+[Introductory report](intro.md)
+
 
 You can use the [editor on GitHub](https://github.com/jsipola/swag-cart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
