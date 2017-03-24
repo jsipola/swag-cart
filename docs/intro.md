@@ -13,6 +13,7 @@ A system which involves several gear wheels was also considered but was deemed t
 
 ## Sketches
 
+Insert images here
 
 ## Bill of Materials
 We already have most of the required components for this project but we require one servo motor.
