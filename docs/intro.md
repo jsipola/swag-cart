@@ -11,9 +11,19 @@ Several options for the mechanism which moves the display was considered but aft
 The rotation of the motor is transformed into linear movement for the display. A similar system is found in 3d printers to control the position of the extruder.
 A system which involves several gear wheels was also considered but was deemed too complex.
 
-## Sketches
+## Sketches and Images
 
-Insert images here
+The dimensions of the screen:
+![GitHub Logo](/images/screen.jpg)
+
+Side view of the cart:
+![GitHub Logo](/images/side1.jpg)
+
+Side view of the cart:
+![GitHub Logo](/images/cart-side2.jpg)
+
+Top view of the cart:
+![Top view](/images/cart-top.jpg)
 
 ## Bill of Materials
 We already have most of the required components for this project but we require one servo motor.
