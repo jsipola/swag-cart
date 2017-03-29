@@ -14,16 +14,16 @@ A system which involves several gear wheels was also considered but was deemed t
 ## Sketches and Images
 
 The dimensions of the screen:
-![GitHub Logo](/images/screen.jpg)
+![Screen](swag-cart/images/screen.jpg)
 
 Side view of the cart:
-![GitHub Logo](/images/side1.jpg)
+![Side view](swag-cart//images/side1.jpg)
 
 Side view of the cart:
-![GitHub Logo](/images/cart-side2.jpg)
+![Side view](swag-cart/images/cart-side2.jpg)
 
 Top view of the cart:
-![Top view](/images/cart-top.jpg)
+![Top view](swag-cart//images/cart-top.jpg)
 
 ## Bill of Materials
 We already have most of the required components for this project but we require one servo motor.
